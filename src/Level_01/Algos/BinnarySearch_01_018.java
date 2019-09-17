@@ -3,7 +3,7 @@ package Level_01.Algos;
 
 // {2,5,7,8,9},9
 
-public class BinnarySearch_018 {
+public class BinnarySearch_01_018 {
     public static Boolean binarySearch(int[] arr, int n){
 
         if (arr.length == 0) {

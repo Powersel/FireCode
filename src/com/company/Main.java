@@ -1,14 +1,19 @@
 package com.company;
 
-import Level_01.Algos.BinnarySearch_018;
-import Level_01.Algos.BubleSort;
-import Level_01.Arrays.MissingNumber_020;
+import Level_01.LinkedList.DeleteLastNode_01_005;
+import com.company.BaseStructures.ListNode;
 
 public class Main {
 
     public static void main(String[] args) {
-        int[] ar = {5,4,3};
-        int[] test = BubleSort.bubbleSortArray(ar);
-        System.out.println(test);
+        ListNode one =  new ListNode(1);
+        ListNode two =  new ListNode(2);
+        ListNode three = new ListNode(3);
+
+        one.next = two;
+        two.next = three;
+
+        ListNode node = DeleteLastNode_01_005.deleteAtTail(one);
+        System.out.print(node);
     }
 }

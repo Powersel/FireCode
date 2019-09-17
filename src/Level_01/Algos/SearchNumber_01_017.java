@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
-public class SearchNumber_017 {
+public class SearchNumber_01_017 {
     public static int singleNumber(int[] A) {
         HashMap<Integer, Integer> storage = new HashMap<>();
         HashSet<Integer> lastElement = new HashSet<>();

@@ -1,6 +1,6 @@
 package Level_01.Arrays;
 
-public class FlopMatrix_019 {
+public class FlopMatrix_01_019 {
     public static void flipItVerticalAxis(int[][] matrix) {
 
         for (int i = 0; i < matrix.length; i++) {

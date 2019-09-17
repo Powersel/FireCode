@@ -1,6 +1,6 @@
 package Level_01.Algos;
 
-public class BubleSort {
+public class BubleSort_01_004 {
 
     public static int[] bubbleSortArray(int[] arr){
 

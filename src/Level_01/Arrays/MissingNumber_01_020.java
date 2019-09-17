@@ -1,6 +1,6 @@
 package Level_01.Arrays;
 
-public class MissingNumber_020 {
+public class MissingNumber_01_020 {
     public static int findMissingNumber(int[] arr) {
 
         int diff = 0;
