@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be36f545-0558-4275-9899-cfacf801f0ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Level_01/LinkedList/DeleteLastNode_01_005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BaseStructures/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level_01/Strings/FirstUniqueChar_01_005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level_01/Strings/ReplaceAllSpaces_01_007.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level_01/Algos/BinnarySearch_018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_01/Algos/BinnarySearch_01_018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level_01/Algos/BubleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_01/Algos/BubleSort_01_004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level_01/Algos/SearchNumber_017.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_01/Algos/SearchNumber_01_017.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level_01/Arrays/FlopMatrix_019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_01/Arrays/FlopMatrix_01_019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Level_01/Arrays/MissingNumber_020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level_01/Arrays/MissingNumber_01_020.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,8 +23,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="264">
+              <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Level_01/Strings/FirstUniqueChar_01_005.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,19 +45,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Level_01/LinkedList/DeleteLastNode_01_005.java">
+        <entry file="file://$PROJECT_DIR$/src/Level_01/Strings/ReplaceAllSpaces_01_007.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state relative-caret-position="440">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/BaseStructures/ListNode.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            <state relative-caret-position="193">
+              <caret line="2371" column="20" selection-start-line="2371" selection-start-column="20" selection-end-line="2371" selection-end-column="20" />
+              <folding>
+                <element signature="e#94629#94630#0" expanded="true" />
+                <element signature="e#94667#94668#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,8 +88,10 @@
         <option value="$PROJECT_DIR$/src/Level_01/Arrays/MissingNumber_020.java" />
         <option value="$PROJECT_DIR$/src/Level_01/Algos/BubleSort.java" />
         <option value="$PROJECT_DIR$/src/com/company/BaseStructures/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/Level_01/LinkedList/DeleteLastNode_01_005.java" />
+        <option value="$PROJECT_DIR$/src/Level_01/Strings/FirstUniqueChar_01_005.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/Level_01/Strings/ReplaceAllSpaces_01_007.java" />
       </list>
     </option>
   </component>
@@ -94,35 +107,42 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Firecode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Firecode" type="462c0819:PsiDirectoryNode" />
+              <item name="FireCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FireCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Firecode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Firecode" type="462c0819:PsiDirectoryNode" />
+              <item name="FireCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FireCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Firecode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Firecode" type="462c0819:PsiDirectoryNode" />
+              <item name="FireCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FireCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Firecode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Firecode" type="462c0819:PsiDirectoryNode" />
+              <item name="FireCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FireCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Level_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FireCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FireCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Level_01" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -133,6 +153,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,10 +216,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15808298" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -208,7 +229,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.49115044" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37228915" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -239,7 +260,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
-          <line>19</line>
+          <line>14</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -266,6 +287,36 @@
           <line>18</line>
           <properties />
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level_01/Strings/FirstUniqueChar_01_005.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level_01/Strings/FirstUniqueChar_01_005.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level_01/Strings/FirstUniqueChar_01_005.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level_01/Strings/ReplaceAllSpaces_01_007.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Level_01/Strings/ReplaceAllSpaces_01_007.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -324,20 +375,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Level_01/LinkedList/DeleteLastNode_01_005.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="268">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Level_01/Strings/FirstUniqueChar_01_005.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Level_01/LinkedList/DeleteLastNode_01_005.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state relative-caret-position="193">
+          <caret line="2371" column="20" selection-start-line="2371" selection-start-column="20" selection-end-line="2371" selection-end-column="20" />
+          <folding>
+            <element signature="e#94629#94630#0" expanded="true" />
+            <element signature="e#94667#94668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Level_01/Strings/ReplaceAllSpaces_01_007.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -391,6 +470,18 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
